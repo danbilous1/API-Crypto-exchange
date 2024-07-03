@@ -1,3 +1,4 @@
-Crypto exchanger. View crypto price in real time.
+API Crypto exchanger.
+See Crypto Coin price in different currencies.
 
-ATTENTION. Can be some problems, because project was made with API.
+Warning. While using the project, might be some errors, because API can be outdated.
